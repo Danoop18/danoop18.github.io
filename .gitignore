@@ -19,8 +19,9 @@ Thumbs.db
 ./CONTENT_REPORT.md
 ./ARCHITECTURE_DESIGN.md
 ./RESTRUCTURE_REPORT.md
-./CLEANUP_REPORT.md
-./CONTENT_AUDIT.mdweb.zip
+./CONTENT_AUDIT.md
+web.zip
+*.zip
 ./.history
 ./.github.history/
 # node_modules/
