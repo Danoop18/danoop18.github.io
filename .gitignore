@@ -2,7 +2,7 @@
 node_modules/
 
 # Hugo generated artifacts and cache
-# public/
+public/
 resources/_gen/
 .hugo_build.lock
 hugo_stats.json

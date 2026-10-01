@@ -19,7 +19,7 @@ sections:
         education: Education
         interests: Core Focus
       button:
-        url: uploads/resume.pdf
+        url: /uploads/resume.pdf
         text: Download CV
     design:
       css_class: dark
@@ -37,7 +37,7 @@ sections:
         - url: personal-lab/
           text: Personal Lab
           icon: cpu-chip
-        - url: uploads/resume.pdf
+        - url: /uploads/resume.pdf
           text: Download CV
           icon: document-arrow-down
         - url: mailto:juan.hdz.9718@gmail.com

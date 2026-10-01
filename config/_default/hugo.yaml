@@ -6,7 +6,7 @@
 # Website name
 title: Juan Hernández - CV
 # Website URL
-baseURL: '/' #'https://danoop18.github.io/cv.github.io/'
+baseURL: 'https://danoop18.github.io/'
 
 ############################
 ## LANGUAGE
